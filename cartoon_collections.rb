@@ -26,4 +26,4 @@ def find_the_cheese(snacks)
   end
 end
 
-find_the_cheese(["Mucho", "Gusto!", "gouda"])
+puts find_the_cheese(["Mucho", "Gusto!", "gouda"])
