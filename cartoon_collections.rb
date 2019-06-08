@@ -25,3 +25,5 @@ def find_the_cheese(snacks)
     cheese_types.include?(snacks)
   end
 end
+
+find_the_cheese(["Mucho", "Gusto!", "gouda"])
